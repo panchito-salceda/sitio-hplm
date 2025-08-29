@@ -1,5 +1,9 @@
  {
-    "nombre": "Casa Alondras",
-    "capacidad":12,
-    "disponibilidad":false
-}
+    "inmuebles" : 
+        [
+            {"nombre" : "Casa Alondras", "capacidad":12},
+            {"nombre": "Casa Faisanes", "capacidad":14},
+            {"nombre": "Casa Cisnes", "capacidad":16},
+            {"nombre": "Casa cerca de Poliforum", "capacidad": 5}
+        ]
+ }
